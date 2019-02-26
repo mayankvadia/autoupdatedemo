@@ -1,0 +1,21 @@
+{
+  "name": "autoupdatedemo",
+  "version": "1.0.0",
+  "description": "This demo only for auto update application",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/mayankvadiya/test/src"
+  },
+  "keywords": [
+    "autoupdatedemo"
+  ],
+  "author": "Mayank Vadiya",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.0.5"
+  }
+}
