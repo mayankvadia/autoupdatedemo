@@ -4,11 +4,11 @@
   "description": "This demo only for auto update application",
   "main": "main.js",
   "scripts": {
-    "test": "npm"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
-    "url": "https://bitbucket.org/mayankvadiya/test/src"
+    "url": "https://github.com/mvkanha/autoupdatedemo"
   },
   "keywords": [
     "autoupdatedemo"
@@ -16,6 +16,7 @@
   "author": "Mayank Vadiya",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^4.0.5"
+    "electron": "^4.0.5",
+    "update-electron-app": "^1.3.0"
   }
 }
